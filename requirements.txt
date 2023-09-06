@@ -10,6 +10,5 @@ streamlit-echarts
 plotly
 sentence_transformers
 torch
-os
 faiss
 time
