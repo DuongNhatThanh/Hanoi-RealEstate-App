@@ -1,0 +1,11 @@
+streamlit
+matplotlib
+numpy
+pandas
+seaborn
+streamlit
+scikit-learn
+streamlit_option_menu
+streamlit-echarts
+plotly
+sentence_transformers
